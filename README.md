@@ -1,9 +1,9 @@
-# PRO-NASA-Exoplanet-Scraped-Data
+# PRO_C129_AM5_V1
 
-[NASA's EXOPLANET EXPLORATION](https://exoplanets.nasa.gov/discovery/exoplanet-catalog/)
+[EXOPLANET EXPLORATION de la NASA](https://exoplanets.nasa.gov/discovery/exoplanet-catalog/)
 
 
-Note: At the scrapping data from this website, this web page had 5009 planets across 201 page(with 25 planets per page)
+Nota: al momento de extraer datos de este sitio web, la página tenía 5009 planetas distribuidos en 201 páginas (25 planetas por página).
 
 
 1.  **updated_scraped_data.csv** : ["name", "light_years_from_earth", "planet_mass", "stellar_magnitude", "discovery_date", "hyperlink"]
